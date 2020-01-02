@@ -9,7 +9,7 @@ SCPI based bode plot python script for DG1032Z signal generator and DS1054Z osci
  - TE Automation
 
 ### Images
- - [thumb.png] 
+ - [thumb.jpg] 
 
 ### Post 
 ### Dependencies
